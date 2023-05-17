@@ -1,0 +1,28 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "LiveLinkDragon",
+	"Description": "LiveLink object for sending and receiving camera movement from DragonBridge",
+	"Category": "Virtual Production",
+	"CreatedBy": "RIT Motion Picture Science",
+	"CreatedByURL": "https://flipphillips.com",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "LiveLinkDragon",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "LiveLinkDragonEditor",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
